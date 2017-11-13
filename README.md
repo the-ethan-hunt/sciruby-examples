@@ -3,7 +3,7 @@ A guide to machine learning and natural language processing examples in Ruby usi
 P.S. This repository is in NO WAY connect to the official SciRuby organisation
 
 <div id="top"><br></div>
-<h2><u> LIST OF CONTENTS </u></h2>
+<h2><u> LIST OF CONTENTS </u></h2><br>
 <ul>
   <li><a href= "#inspiration">Inspiration</a></li>
   <li><a href= "#install">Installing IRuby</a></li>
@@ -13,17 +13,17 @@ P.S. This repository is in NO WAY connect to the official SciRuby organisation
 
 <div id="inspiration"><br></div>
 <h1> <u> Inspiration </u> </h1>
-<i><a href = "#top"> Back to contents </a></i>
+<i><a href = "#top"> Back to contents </a></i><br><br>
 After months of extensive searching, we realised there was not a single repository that could guidea newbie to machine learning and natural language processing in Ruby. Thus this, and a series of naming discussions later, sciruby-examples was born.
 
 <div id="install"><br></div>
 <h1><u> Installing IRuby</u></h1>
-<i><a href="#top">Back to contents</a></i>
+<i><a href="#top">Back to contents</a></i><br><br>
 You can install IRuby on your PC using the instructions given here:https://github.com/SciRuby/iruby
 
 <div id="contribute"><br></div>
 <h1><u>Contributing</u></h1>
-<i><a href="#top">Back to contents</a></i>
+<i><a href="#top">Back to contents</a></i><br><br>
 You can contribute via a PR. Make sure your PR includes the following:
 <ul>
   <li>The name of the algorithm implemented in the title</li>
