@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2017 Dhruv Apte and Athitya Kumar
+Copyright (c) 2017 - [Dhruv Apte](http://github.com/the-ethan-hunt) and [Athitya Kumar](https://github.com/athityakumar)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
