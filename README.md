@@ -5,7 +5,7 @@ A centralized guide to machine learning and natural language processing examples
 ### List of contents
 
 - [Inspiration](#inspiration)
-- [Installling IRuby](#installing-iruby)
+- [Installing IRuby](#installing-iruby)
 - [Contributing](#contributing)
 - [License](#license)
 
