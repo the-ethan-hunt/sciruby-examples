@@ -1,5 +1,7 @@
 # SciRuby Examples
 
+[![chat](https://img.shields.io/badge/chat-google%20groups-brightgreen.svg)](https://groups.google.com/forum/#!forum/sciruby-examples-discuss)
+
 A centralized guide to machine learning and natural language processing examples in Ruby using IRuby notebooks.
 
 ### List of contents
